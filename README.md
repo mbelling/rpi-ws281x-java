@@ -1,3 +1,5 @@
+# This project has moved to https://github.com/rpi-ws281x/rpi-ws281x-java
+
 # rpi-ws281x-java
 rpi281x wrapper for Java using SWIG
 
